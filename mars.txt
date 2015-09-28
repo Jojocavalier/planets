@@ -1,2 +1,3 @@
-A file about Mars, no information about water contamination.
+A file about Mars, information about water contamination.
 This is ground control to Major Tom.
+We know Major Tom's a junky.
